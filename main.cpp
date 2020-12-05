@@ -11,6 +11,7 @@ int main(int argc, char *argv[])
     if(!al_init()){
         al_show_native_message_box(nullptr, nullptr,nullptr,"Failed to init allegro",nullptr,0);
         return -1;
+        //JIHDZUHDZUHDUZDIUHZDHHZZIUHDZIUHDIUZHDZIUHDZDIZUD
     }
 
     display = al_create_display(1920,1080);
