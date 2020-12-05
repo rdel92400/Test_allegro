@@ -14,6 +14,8 @@ int main(int argc, char *argv[])
         //JIHDZUHDZUHDUZDIUHZDHHZZIUHDZIUHDIUZHDZIUHDZDIZUD
     }
 
+    ///Test push
+
     display = al_create_display(1920,1080);
 
     if(!display){
