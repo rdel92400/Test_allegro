@@ -12,6 +12,8 @@ int main(int argc, char *argv[])
         al_show_native_message_box(nullptr, nullptr,nullptr,"Failed to init allegro",nullptr,0);
         return -1;
         //JIHDZUHDZUHDUZDIUHZDHHZZIUHDZIUHDIUZHDZIUHDZDIZUD
+        //JIHDZUHDZUHDUZDIUHZDHHZZIUHDZIUHDIUZHDZIUHDZDIZUD
+        //JIHDZUHDZUHDUZDIUHZDHHZZIUHDZIUHDIUZHDZIUHDZDIZUD
     }
 
     ///Test push
